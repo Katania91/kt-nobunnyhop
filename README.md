@@ -1,4 +1,4 @@
-# KT-nobunnyhop
+# kt-nobunnyhop
 
 ## Description
 
