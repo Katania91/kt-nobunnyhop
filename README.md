@@ -2,7 +2,7 @@
 
 ## Description
 
-This FiveM script limits the number of jumps a player can perform within a short period of time. If the player exceeds the configured number of jumps (default is 5) within a set time frame (10 seconds), the player will be knocked out with a ragdoll effect for a few seconds.
+This FiveM script limits the number of jumps a player can perform within a short period of time. If the player exceeds the configured number of jumps (default is 3) within a set time frame (10 seconds), the player will be knocked out with a ragdoll effect for a few seconds.
 
 This script works in all conditions, whether the player is running or just spamming the jump key without moving. It's an ideal way to add a bit of challenge and realism to the game.
 
